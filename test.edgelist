@@ -1,74 +1,74 @@
-Deck promenade deck {'edge': 'also called'}
-Deck superstructure {'edge': 'extended along'}
-Deck First Class passengers {'edge': 'reserved exclusively for'}
-Deck First Class cabins {'edge': 'contained'}
-Deck First Class lounge {'edge': 'contained'}
-Deck smoke room {'edge': 'contained'}
-Deck reading and writing rooms {'edge': 'contained'}
-Deck Palm Court {'edge': 'contained'}
+Deck promenade deck edge {'edge': 'also called'}
+Deck superstructure edge {'edge': 'extended along'}
+Deck First Class passengers edge {'edge': 'reserved exclusively for'}
+Deck First Class cabins edge {'edge': 'contained'}
+Deck First Class lounge edge {'edge': 'contained'}
+Deck smoke room edge {'edge': 'contained'}
+Deck reading and writing rooms edge {'edge': 'contained'}
+Deck Palm Court edge {'edge': 'contained'}
 B Deck top weight-bearing deck {'edge': 'was'}
 B Deck uppermost level of hull {'edge': 'was'}
-B Deck First Class passenger accommodations {'edge': 'contained'}
-B Deck six palatial staterooms {'edge': 'contained'}
-B Deck à la carte restaurant {'edge': 'contained'}
-B Deck Café Parisien {'edge': 'contained'}
-B Deck subcontracted chefs {'edge': 'run by'}
-B Deck staff {'edge': 'run by'}
-Second Class smoking room B Deck {'edge': 'located on'}
-Second Class entrance hall B Deck {'edge': 'located on'}
+B Deck First Class passenger accommodations edge {'edge': 'contained'}
+B Deck six palatial staterooms edge {'edge': 'contained'}
+B Deck à la carte restaurant edge {'edge': 'contained'}
+B Deck Café Parisien edge {'edge': 'contained'}
+B Deck subcontracted chefs edge {'edge': 'run by'}
+B Deck staff edge {'edge': 'run by'}
+Second Class smoking room B Deck edge {'edge': 'located on'}
+Second Class entrance hall B Deck edge {'edge': 'located on'}
 C Deck highest deck to run uninterrupted from stem to stern {'edge': 'was'}
-C Deck well decks {'edge': 'contained'}
-C Deck aft well deck {'edge': 'contained'}
-C Deck Third Class promenade {'edge': 'served as'}
-C Deck crew cabins {'edge': 'contained'}
-C Deck Third Class public rooms {'edge': 'contained'}
-C Deck majority of First Class cabins {'edge': 'contained'}
-C Deck Second Class library {'edge': 'contained'}
-D Deck saloon deck {'edge': 'was'}
-D Deck First Class reception room {'edge': 'contained'}
-D Deck First Class dining saloon {'edge': 'contained'}
-D Deck Second Class dining saloon {'edge': 'contained'}
-D Deck open space {'edge': 'contained'}
-D Deck Third Class passengers {'edge': 'provided for'}
-D Deck First Class cabins {'edge': 'contained'}
-D Deck Second Class cabins {'edge': 'contained'}
-D Deck Third Class cabins {'edge': 'contained'}
-D Deck berths for firemen {'edge': 'contained'}
-E Deck upper deck {'edge': 'was'}
-E Deck all three classes {'edge': 'accommodated'}
-E Deck cooks {'edge': 'accommodated'}
-E Deck seamen {'edge': 'accommodated'}
-E Deck stewards {'edge': 'accommodated'}
-E Deck trimmers {'edge': 'accommodated'}
-E Deck long passageway {'edge': 'contained'}
-E Deck Scotland Road {'edge': 'nicknamed'}
-F Deck middle deck {'edge': 'was'}
-F Deck three large public rooms {'edge': 'contained'}
-F Deck First Class reception room {'edge': 'contained'}
-F Deck First Class dining saloon {'edge': 'contained'}
-F Deck Second Class dining saloon {'edge': 'contained'}
-F Deck open space {'edge': 'contained'}
-F Deck Third Class passengers {'edge': 'provided for'}
-F Deck First Class cabins {'edge': 'contained'}
-F Deck Second Class cabins {'edge': 'contained'}
-F Deck Third Class cabins {'edge': 'contained'}
-F Deck swimming pool {'edge': 'contained'}
-F Deck Turkish bath {'edge': 'contained'}
-F Deck kennels {'edge': 'contained'}
-G Deck lower deck {'edge': 'was'}
-G Deck passengers {'edge': 'carried'}
-G Deck lowest portholes {'edge': 'contained'}
-G Deck squash court {'edge': 'contained'}
-G Deck travelling post office {'edge': 'contained'}
-G Deck food storage {'edge': 'contained'}
+C Deck well decks edge {'edge': 'contained'}
+C Deck aft well deck edge {'edge': 'contained'}
+C Deck Third Class promenade edge {'edge': 'served as'}
+C Deck crew cabins edge {'edge': 'contained'}
+C Deck Third Class public rooms edge {'edge': 'contained'}
+C Deck majority of First Class cabins edge {'edge': 'contained'}
+C Deck Second Class library edge {'edge': 'contained'}
+D Deck saloon deck edge {'edge': 'was'}
+D Deck First Class reception room edge {'edge': 'contained'}
+D Deck First Class dining saloon edge {'edge': 'contained'}
+D Deck Second Class dining saloon edge {'edge': 'contained'}
+D Deck open space edge {'edge': 'contained'}
+D Deck Third Class passengers edge {'edge': 'provided for'}
+D Deck First Class cabins edge {'edge': 'contained'}
+D Deck Second Class cabins edge {'edge': 'contained'}
+D Deck Third Class cabins edge {'edge': 'contained'}
+D Deck berths for firemen edge {'edge': 'contained'}
+E Deck upper deck edge {'edge': 'was'}
+E Deck all three classes edge {'edge': 'accommodated'}
+E Deck cooks edge {'edge': 'accommodated'}
+E Deck seamen edge {'edge': 'accommodated'}
+E Deck stewards edge {'edge': 'accommodated'}
+E Deck trimmers edge {'edge': 'accommodated'}
+E Deck long passageway edge {'edge': 'contained'}
+E Deck Scotland Road edge {'edge': 'nicknamed'}
+F Deck middle deck edge {'edge': 'was'}
+F Deck three large public rooms edge {'edge': 'contained'}
+F Deck First Class reception room edge {'edge': 'contained'}
+F Deck First Class dining saloon edge {'edge': 'contained'}
+F Deck Second Class dining saloon edge {'edge': 'contained'}
+F Deck open space edge {'edge': 'contained'}
+F Deck Third Class passengers edge {'edge': 'provided for'}
+F Deck First Class cabins edge {'edge': 'contained'}
+F Deck Second Class cabins edge {'edge': 'contained'}
+F Deck Third Class cabins edge {'edge': 'contained'}
+F Deck swimming pool edge {'edge': 'contained'}
+F Deck Turkish bath edge {'edge': 'contained'}
+F Deck kennels edge {'edge': 'contained'}
+G Deck lower deck edge {'edge': 'was'}
+G Deck passengers edge {'edge': 'carried'}
+G Deck lowest portholes edge {'edge': 'contained'}
+G Deck squash court edge {'edge': 'contained'}
+G Deck travelling post office edge {'edge': 'contained'}
+G Deck food storage edge {'edge': 'contained'}
 Orlop decks lowest level of ship {'edge': 'were'}
 Orlop decks below waterline {'edge': 'were'}
 Orlop decks cargo spaces {'edge': 'were used as'}
 Orlop decks higher levels of ship {'edge': 'were connected with'}
 Tank top inner bottom of ship's hull {'edge': 'was'}
-Tank top ship's boilers {'edge': 'provided platform for'}
-Tank top ship's engines {'edge': 'provided platform for'}
-Tank top ship's turbines {'edge': 'provided platform for'}
-Tank top ship's electrical generators {'edge': 'provided platform for'}
-Twin spiral stairways bow {'edge': 'were near'}
-Twin spiral stairways D Deck {'edge': 'provided access to'}
+Tank top ship's boilers edge {'edge': 'provided platform for'}
+Tank top ship's engines edge {'edge': 'provided platform for'}
+Tank top ship's turbines edge {'edge': 'provided platform for'}
+Tank top ship's electrical generators edge {'edge': 'provided platform for'}
+Twin spiral stairways bow edge {'edge': 'were near'}
+Twin spiral stairways D Deck edge {'edge': 'provided access to'}

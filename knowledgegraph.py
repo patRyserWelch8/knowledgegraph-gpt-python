@@ -15,7 +15,7 @@ kb_input = ""
 def createGraph(df,rel_labels):
   G = nx.from_pandas_edgelist(df, "source", "target",
                               edge_attr=True, create_using=nx.MultiDiGraph())
-  nx.write_edgelist(G, "test.edgelist")
+  nx.write_edgelist(G, "graph.edgelist")
   plt.figure(figsize=(12, 12))
 
   pos = nx.spring_layout(G)
@@ -67,6 +67,7 @@ def main(kb_file_name,api_key):
   prompt_text = prompt_text.replace("$prompt", kb_input)
   api_response = callGptApi(api_key,prompt_text)
   df,rel_lables = preparingDataForGraph(api_response)
+  print(rel_lables)
   createGraph(df,rel_lables)
 
 def start():
