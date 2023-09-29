@@ -15,6 +15,7 @@ kb_input = ""
 def createGraph(df,rel_labels):
   G = nx.from_pandas_edgelist(df, "source", "target",
                               edge_attr=True, create_using=nx.MultiDiGraph())
+  nx.write_edgelist(G, "test.edgelist")
   plt.figure(figsize=(12, 12))
 
   pos = nx.spring_layout(G)
